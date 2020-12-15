@@ -6,7 +6,7 @@
 
 USE [ROBO]
 GO
-/****** Object:  Table [dbo].[Log]    Script Date: 14/12/2020 19:23:11 ******/
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -17,7 +17,7 @@ CREATE TABLE [dbo].[Log](
 	[Mensagem] [varchar](max) NULL
 ) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
 GO
-/****** Object:  Table [dbo].[Robo]    Script Date: 14/12/2020 19:23:11 ******/
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -33,4 +33,5 @@ CREATE TABLE [dbo].[Robo](
 	[InclinacaoCabeca] [int] NULL
 ) ON [PRIMARY]
 GO
+
 
