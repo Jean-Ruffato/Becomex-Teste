@@ -1,0 +1,6 @@
+C:\Work\R.O.B.O\R.O.B.O.Core\obj\Debug\R.O.B.O.Core.csprojAssemblyReference.cache
+C:\Work\R.O.B.O\R.O.B.O.Core\obj\Debug\R.O.B.O.Core.csproj.CoreCompileInputs.cache
+C:\Work\R.O.B.O\R.O.B.O.Core\bin\Debug\R.O.B.O.Core.dll
+C:\Work\R.O.B.O\R.O.B.O.Core\bin\Debug\R.O.B.O.Core.pdb
+C:\Work\R.O.B.O\R.O.B.O.Core\obj\Debug\R.O.B.O.Core.dll
+C:\Work\R.O.B.O\R.O.B.O.Core\obj\Debug\R.O.B.O.Core.pdb
